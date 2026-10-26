@@ -10,6 +10,9 @@ Elle tourne entièrement dans le navigateur (Web Bluetooth), sans compte ni serv
 - Onglet *Diagnostic Bluetooth* : services GATT, trames brutes décodées, journal à copier
 - Mode *Simulation* pour essayer l'interface sans le vélo
 
+**En ligne : <https://sgmckay25.github.io/el520b-libre/>**. Sur le téléphone, l'ouvrir dans Chrome puis
+menu ⋮ › *Ajouter à l'écran d'accueil*.
+
 ## Navigateurs compatibles
 
 Chrome ou Edge sur Android, Windows, macOS ou Linux. Sur iPhone, Safari ne gère pas le Web Bluetooth :
